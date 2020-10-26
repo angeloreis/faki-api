@@ -1,0 +1,46 @@
+{
+    "territory": [
+      { "label": "Norte", "value":"norte"},
+      { "label": "Nordeste", "value":"nordeste"},
+      { "label": "Sul", "value":"sul"},
+      { "label": "Sudeste", "value":"sudeste"},
+      { "label": "Centro-Oeste", "value":"centroeste"}
+    ],
+    "norte": [
+      {  "label": "Acre", "value": "AC" },
+      {  "label": "Amapá", "value": "AP" },
+      {  "label": "Amazonas", "value": "AM" },
+      {  "label": "Pará", "value": "PA" },
+      {  "label": "Rondônia", "value": "RO" },
+      {  "label": "Roraima", "value": "RR" },
+      {  "label": "Tocantins", "value": "TO" }
+    ],
+    "nordeste": [
+        { "label": "Maranhão", "value": "MA" },
+        { "label": "Piauí", "value": "PI" },
+        { "label": "Ceará", "value": "CE" },
+        { "label": "Rio Grande do Norte", "value": "RN" },
+        { "label": "Paraíba", "value": "PB" },
+        { "label": "Pernambuco", "value": "PE" },
+        { "label": "Alagoas", "value": "AL" },
+        { "label": "Sergipe", "value": "SE" },
+        { "label": "Bahia", "value": "BH" }
+    ],
+    "sul": [
+        { "label": "Paraná", "value": "PR" },
+        { "label": "Santa Catarina", "value": "SC" },
+        { "label": "Rio Grande do Sul", "value": "RS" }
+    ],
+    "sudeste": [
+        { "label": "São Paulo", "value": "SP" },
+        { "label": "Minas Gerais", "value": "MG" },
+        { "label": "Rio de Janeiro", "value": "RJ" },
+        { "label": "Espírito SAnto", "value": "ES" }
+    ],
+    "centroeste": [
+        { "label": "Distrito Federal", "value": "DF" },
+        { "label": "Goiás", "value": "GO" },
+        { "label": "Mato Grosso", "value": "MT" },
+        { "label": "Mato Grosso do Sul", "value": "MS" }
+    ]
+  }
